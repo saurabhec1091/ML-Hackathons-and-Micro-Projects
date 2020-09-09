@@ -1,2 +1,9 @@
-# ML-Micro-Projects-and-Tutorials
-This Repository contains all the small Machine Learning tasks which can be used to save time during an end to end project and also to learn several tricks in ML. 
+# ML-Hackathons-and-Micro-Projects
+This Repository contains all the small Machine Learning tasks and Machine Learning Hackathons participations by Saurabh Verma. 
+
+### Contact Me
+
+| Contact Method |  |
+| --- | --- |
+| Professional Email | saurabhec1091@gmail.com |
+| LinkedIn | www.linkedin.com/in/saurabhvermaec |
